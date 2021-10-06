@@ -1,15 +1,15 @@
 <h1 align="center">Hi there 👋, I'm Guadalupe</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **an app for selling e-ticketss**
+- 🔭 I’m currently working on **an app for selling e-tickets**
 
 - 🌱 I’m currently learning **Firebase, React Native, Typescript, MongoDB**
 
-- 👯 I’m looking to collaborate on **a project with friends to build a Dream´s App**
+- 👯 I’m looking for buddies **to build a Dream´s App, it may sound unreal, but it´s a project im starting**
 
 - 🤝 I’m looking for help with **my job hunting**
 
-- 👨‍💻 All of my projects are available at [i still dont have a portfolio, but soon i promise i will](i still dont have a portfolio, but soon i promise i will)
+- 👨‍💻 All of my projects are available at (i still dont have a portfolio, but soon i promise i will)
 
 - 💬 Ask me about **my interests and i´ll tell you what i´m up to**
 
