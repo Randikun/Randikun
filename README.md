@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **When i was a child i hated computers XD**
 
-<h3 align="left">Connect with me, you will not regret it</h3>
+<h3 align="left">Connect with me, you won't regret it :)</h3>
 <p align="left">
 <a href="https://twitter.com/randikun2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="randikun2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/guadifantinidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guadifantinidev" height="30" width="40" /></a>
