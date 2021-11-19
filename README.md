@@ -15,7 +15,9 @@
 
 - 📫 How to reach me **guadafantini@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAEqj05qBKo/wZ47B6Jf8QzTiJuvwvy0Bg/view?utm_content=DAEqj05qBKo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAEqj05qBKo/wZ47B6Jf8QzTiJuvwvy0Bg/view?utm_content=DAEqj05qBKo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences:
+
+<img src='cv png.png' />
 
 - ⚡ Fun fact **When i was a child i hated computers XD**
 
