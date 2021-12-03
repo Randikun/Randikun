@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an app for selling e-tickets**
 
-- 🌱 I’m currently learning **Firebase, React Native, Typescript, MongoDB**
+- 🌱 I’m currently learning ** MongoDB**
 
 - 👯 I’m looking for buddies **to build a Dream´s App, it may sound unreal, but it´s a project im starting**
 
