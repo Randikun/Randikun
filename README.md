@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Guadalupe</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **an app for selling e-tickets**
 
-- 🌱 I’m currently learning **MongoDB**
+
+- 🌱 I’m currently learning **MongoDB and JAVA**
 
 - 👯 I’m looking for buddies **to build a Dream´s App, it may sound unreal, but it´s a project im starting**
 
