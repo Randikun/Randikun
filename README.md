@@ -3,13 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **MongoDB and JAVA**
+- 🌱 I’m currently working in DrivenDevs
 
 - 👯 I’m looking for buddies **to build a Dream´s App, it may sound unreal, but it´s a project im starting**
-
-- 🤝 I’m looking for help with **my job hunting**
-
-- 👨‍💻 All of my projects are available at (i still dont have a portfolio, but soon i promise i will)
 
 - 💬 Ask me about **my interests and i´ll tell you what i´m up to**
 
